@@ -13,7 +13,7 @@ This is Vivek Sura, a passionate full-stack product engineer with 10 years exper
     - Stack: Python-FastAPI, React, SQL, EMR, Spark, ElasticSearch, AWS, DynamoDB, MongoDB, AWS Athena, Glue, S3
 
 - Sr. Full Stack Developer & Team Lead at **_[Report Garden](https://reportgarden.com/)_** - (May 2016 to June 2023)
-  - Worked on multiple products, built multiple microservices. Learnt a lot of software engineering, data engineering, team management, crisis management, customer support and all things start-up
+  - Worked on multiple products, built multiple microservices. Learnt a lot of saas, software engineering, data engineering, product management, engineering management, customer support and all other things related to tech & startup
   - Handled all things product, tech and devops: new features, support tickets, sales enablements, application performance and QA.
       - Responsible for maintaining $3M ARR with a team of 3 junior developers.
       - Added several new features to the product per customer requests
@@ -26,7 +26,8 @@ This is Vivek Sura, a passionate full-stack product engineer with 10 years exper
   - Built drag-and-drop WYSIWYG multipage canvas using ReactJS
     - Each page contains multiple charts, each chart contains extremely customisable real time data from atleast one source, handling 100's of dimensions, measures, dynamic ad-previews
     - HTML page can be printed as a WYSIWYG PDF to be shared to the customers
-  - Designed and deployed microservices for web-crawling on social media and PPC (Facebook, Twitter, LinkedIn, TikTok), PDF report generation, automated form filling, by-pass "login" and geo restrictions
+  - Designed and deployed microservices for web-crawling, PDF report generation, automated form filling, by-pass "login" and geo restrictions
+      - NodeJS + PuppteerJS app hosted on AWS lambda, used for automating screenshots of public & not-so-pblic posts on social media and PPC (Facebook, Twitter, LinkedIn, TikTok)
   - Solo-handled product, tech and devops due-diligence of a mobile app acquisition, StatX. Full stack maintenance - android, iOS, backend and website
   - Monitored, identified and fixed application performance issues - 300ms 95%ile response times, database tuning, N+1 queries, memory bloat issues, error rates, version upgrades, DDoS attacks, outages and other failures
   - Stack: Ruby On Rails, Java-SpringBoot, React-Redux, Sidekiq, AWS EC2, Postgres, Temporal, Docker, Heroku, Lambda, SQS, SNS, API Gateway, SES, S3 
