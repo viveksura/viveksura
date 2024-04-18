@@ -2,12 +2,12 @@
 
 This is Vivek Sura, a passionate full-stack product engineer with 10 years experience building full stack apps, APIs, microservices at 3 B2B SaaS companies. Strong areas include Web Apps, API integrations, data engineering & analytics, ETL pipelines, Drag & Drop WYSIWYG editors, data intensive dashboards and reports, Ad-Tech/Marketing-Tech, DevOps.  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=viveksura&theme=catppuccin-macchiato&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=viveksura&theme=catppuccin-macchiato&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 ## Experience
 
-#### Sr. Software Developer (Independent Contractor) at **_[Strata](https://gostrata.com/)_** - (June 2023)
+#### Sr. Software Developer (Independent Contractor) at **_[Strata](https://gostrata.com/)_** - (June 2023 - Present)
 - Designed and developed a robust python background job library (celery/sidekiq alternative for AWS serverless) from scratch. Includes scheduling, job retry mechanism, error monitoring
 - Built a prospect-aggregator microservice to aggregate mail prospects and unify attributes from multiple sources. Wrote a query builder to query by complex/composite filters on ~10M+ rows, ~150 geographic & demographic columns
 - Stack: Python-FastAPI, React, SQL, EMR, Spark, ElasticSearch, AWS, DynamoDB, MongoDB, AWS Athena, Glue, S3
@@ -38,13 +38,14 @@ This is Vivek Sura, a passionate full-stack product engineer with 10 years exper
 
 #### Product Engineer at **_[VMock](https://vmock.com/)_** - (Sept 2015 to April 2016)
 - Data extraction from PDF resumes to detect features like education, experience, hard skills, soft skills, timelines, industry/domain using NLP, fuzzy logic & pattern recognition
-- Built admin panel, for non-tech CSM’s, to generate & fine tune a custom resume scoring (linear regression) algorithm
+- Added features to admin panel, for non-tech CSM’s, to generate & fine tune a custom resume scoring (linear regression) algorithm
 - Developed a UI/UX to give instant section level and bullet point level feedback on a resume
 - On-call engineer for customer (placement offices of world’s top B-schools) onboarding and customisation
 - Stack: PHP, jQuery, AWS EC2, Stanford-NLTK
  
 #### Graduate Trainee Engineer at **_[Comverse](https://comverse.com/)_** - (July 2014 to Sept 2015)
-- Worked on KenanFX billing software, built some middleware APIs
+- Worked on KenanFX billing software
+  - wrote middleware CRUD APIs & SQL stored procs
 - Stack: C++, XML, SQL, Python
  
 ## Skills
