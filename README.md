@@ -12,7 +12,7 @@ This is Vivek Sura, a passionate full-stack product engineer with 10 years exper
 - Built a prospect-aggregator microservice to aggregate mail prospects and unify attributes from multiple sources. Wrote a query builder to query by complex/composite filters on ~10M+ rows, ~150 geographic & demographic columns
 - Stack: Python-FastAPI, React, SQL, EMR, Spark, ElasticSearch, AWS, DynamoDB, MongoDB, AWS Athena, Glue, S3
 
-#### Sr. Full Stack Developer & Team Lead at **_[Report Garden](https://reportgarden.com/)_** - (May 2016 to June 2023)
+#### Sr. Full Stack Developer & Team Lead (Early Tech team member) at **_[Report Garden](https://reportgarden.com/)_** - (May 2016 to June 2023)
 - Worked on multiple products, built multiple microservices. Learnt a lot of saas, software engineering, data engineering, product management, engineering management, customer support and all other things related to tech & startup
 - Handled all things product, tech and devops: new features, support tickets, sales enablements, application performance and QA.
   - Responsible for maintaining $3M ARR with a team of 3 junior developers.
