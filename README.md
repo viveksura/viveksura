@@ -1,6 +1,6 @@
 ## Hi there !! 👋
 
-This is Vivek Sura, a passionate full-stack product engineer with 10 years experience building full stack apps, APIs, microservices at 3 B2B SaaS companies. Strong areas include Web Apps, API integrations, data engineering & analytics, ETL pipelines, Drag & Drop WYSIWYG editors, data intensive dashboards and reports, Ad-Tech/Marketing-Tech, DevOps.  
+This is Vivek Sura, a passionate full-stack product engineer with 10 years experience building apps, APIs, microservices at 3 B2B SaaS companies. Strong areas include Web Apps, API integrations, data engineering & analytics, ETL pipelines, Drag & Drop WYSIWYG editors, data intensive dashboards and reports, Ad-Tech/Marketing-Tech, DevOps.  
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=viveksura&theme=catppuccin-macchiato&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
