@@ -1,18 +1,18 @@
-### Hi there !! 👋
+## Hi there !! 👋
 
 This is Vivek Sura, a passionate full-stack product engineer with 10 years experience building full stack apps, APIs, microservices at 3 B2B SaaS companies. Strong areas include Web Apps, API integrations, data engineering & analytics, ETL pipelines, Drag & Drop WYSIWYG editors, data intensive dashboards and reports, Ad-Tech/Marketing-Tech, DevOps.  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=viveksura&theme=catppuccin-macchiato&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-### Experience
+## Experience
 
-- Sr. Software Developer (Independent Contractor) at **_[Strata](https://gostrata.com/)_** - (June 2023)
+#### Sr. Software Developer (Independent Contractor) at **_[Strata](https://gostrata.com/)_** - (June 2023)
     - Designed and developed a robust python background job library (celery/sidekiq alternative for AWS serverless) from scratch. Includes scheduling, job retry mechanism, error monitoring
     - Built a prospect-aggregator microservice to aggregate mail prospects and unify attributes from multiple sources. Wrote a query builder to query by complex/composite filters on ~10M+ rows, ~150 geographic & demographic columns
     - Stack: Python-FastAPI, React, SQL, EMR, Spark, ElasticSearch, AWS, DynamoDB, MongoDB, AWS Athena, Glue, S3
 
-- Sr. Full Stack Developer & Team Lead at **_[Report Garden](https://reportgarden.com/)_** - (May 2016 to June 2023)
+#### Sr. Full Stack Developer & Team Lead at **_[Report Garden](https://reportgarden.com/)_** - (May 2016 to June 2023)
   - Worked on multiple products, built multiple microservices. Learnt a lot of saas, software engineering, data engineering, product management, engineering management, customer support and all other things related to tech & startup
   - Handled all things product, tech and devops: new features, support tickets, sales enablements, application performance and QA.
       - Responsible for maintaining $3M ARR with a team of 3 junior developers.
@@ -36,18 +36,18 @@ This is Vivek Sura, a passionate full-stack product engineer with 10 years exper
   - Monitored, identified and fixed application performance issues - 300ms 95%ile response times, database tuning, N+1 queries, memory bloat issues, error rates, version upgrades, DDoS attacks, outages and other failures
   - Stack: Ruby On Rails, Java-SpringBoot, React-Redux, Sidekiq, AWS EC2, Postgres, Temporal, Docker, Heroku, Lambda, SQS, SNS, API Gateway, SES, S3 
 
-- Product Engineer at **_[VMock](https://vmock.com/)_** - (Sept 2015 to April 2016)
+#### Product Engineer at **_[VMock](https://vmock.com/)_** - (Sept 2015 to April 2016)
   - Data extraction from PDF resumes to detect features like education, experience, hard skills, soft skills, timelines, industry/domain using NLP, fuzzy logic & pattern recognition
   - Built admin panel, for non-tech CSM’s, to generate & fine tune a custom resume scoring (linear regression) algorithm
   - Developed a UI/UX to give instant section level and bullet point level feedback on a resume
   - On-call engineer for customer (placement offices of world’s top B-schools) onboarding and customisation
   - Stack: PHP, jQuery, AWS EC2, Stanford-NLTK
  
-- Graduate Trainee Engineer at **_[Comverse](https://comverse.com/)_** - (July 2014 to Sept 2015)
+#### Graduate Trainee Engineer at **_[Comverse](https://comverse.com/)_** - (July 2014 to Sept 2015)
   - Worked on KenanFX billing software, built some middleware APIs
   - Stack: C++, XML, SQL, Python
  
-### Skills
+## Skills
   - Languages/Frameworks: Ruby On Rails, Python, FastAPI, Django, Java, Spring,  React-Redux, Temporal, PySpark
   - Databases/Datastores: PostGres, ElasticSearch, Redis, S3, SQS, Snowflake, AWS RDS, DynamoDB
   - Other: Unix, AWS, Cloudflare, Heroku, Docker, Coolify, CI/CD, APM, Serverless, WebSockets, Puppeteer
