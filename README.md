@@ -22,13 +22,17 @@ This is Vivek Sura, a passionate full-stack product engineer with 10 years exper
     - Designed and built a REST-JSON API to securely extract data from PostGres data lake. Supports most used SQL operations like aggregations, joins, recursive joins, sub-queries, recursive sub-queries, filters, having, limit, order-by.
   - Built connector framework (Helium) to support real-time data fetching, data processing from 60+ digital marketing/ad-tech APIs, email providers, web-analytics APIs including Google Ads, Analytics, Facebook Ads etc
     - Added multi-account support to blend data from different data-sources on a common dimension. For eg. Cost Spent on Google Ads, New User Traffic from Google Analytics, Revenue from Shopify can be used to create new custom metrics and plot time series chart
-    - Data fetching is parallelised using sidekiq batch workers
   - Built drag-and-drop WYSIWYG multipage canvas using ReactJS
     - Each page contains multiple charts, each chart contains extremely customisable real time data from atleast one source, handling 100's of dimensions, measures, dynamic ad-previews
     - HTML page can be printed as a WYSIWYG PDF to be shared to the customers
   - Designed and deployed microservices for web-crawling, PDF report generation, automated form filling, by-pass "login" and geo restrictions
       - NodeJS + PuppteerJS app hosted on AWS lambda, used for automating screenshots of public & not-so-pblic posts on social media and PPC (Facebook, Twitter, LinkedIn, TikTok)
-  - Solo-handled product, tech and devops due-diligence of a mobile app acquisition, StatX. Full stack maintenance - android, iOS, backend and website
+  - Solo-handled product, tech and devops due-diligence of a mobile app acquisition, StatX. 
+      - Full stack maintenance - android, iOS, backend and website for more than 1 year
+      - Learn't about blockchain wallets, publishing apps on playstore and appstore
+  - Worked hands-on during an acquihire by a competitor
+    - Application merger, data migration from a multi-tenant system to a single tenant system and vice-versa
+    - Training on a different tech stack
   - Monitored, identified and fixed application performance issues - 300ms 95%ile response times, database tuning, N+1 queries, memory bloat issues, error rates, version upgrades, DDoS attacks, outages and other failures
   - Stack: Ruby On Rails, Java-SpringBoot, React-Redux, Sidekiq, AWS EC2, Postgres, Temporal, Docker, Heroku, Lambda, SQS, SNS, API Gateway, SES, S3 
 
