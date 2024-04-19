@@ -34,7 +34,7 @@ This is Vivek Sura, a passionate full-stack product engineer with 10 years exper
     - Application merger, data migration from a multi-tenant system to a single tenant system and vice-versa
     - Training on a different tech stack
 - Monitored, identified and fixed application performance issues - 300ms 95%ile response times, database tuning, N+1 queries, memory bloat issues, error rates, version upgrades, DDoS attacks, outages and other failures
-  - Stack: Ruby On Rails, Java-SpringBoot, React-Redux, Sidekiq, AWS EC2, Postgres, Temporal, Docker, Heroku, Lambda, SQS, SNS, API Gateway, SES, S3 
+- Stack: Ruby On Rails, Java-SpringBoot, React-Redux, Sidekiq, AWS EC2, Postgres, Temporal, Docker, Heroku, Lambda, SQS, SNS, API Gateway, SES, S3 
 
 #### Product Engineer at **_[VMock](https://vmock.com/)_** - (Sept 2015 to April 2016)
 - Data extraction from PDF resumes to detect features like education, experience, hard skills, soft skills, timelines, industry/domain using NLP, fuzzy logic & pattern recognition
